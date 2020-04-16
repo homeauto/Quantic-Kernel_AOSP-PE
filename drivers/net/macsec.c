@@ -20,7 +20,6 @@
 #include <net/genetlink.h>
 #include <net/sock.h>
 #include <net/gro_cells.h>
-#include <linux/if_arp.h>
 #include <linux/phy.h>
 
 #include <uapi/linux/if_macsec.h>
